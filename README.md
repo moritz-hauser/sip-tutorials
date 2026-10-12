@@ -1,10 +1,10 @@
-# Signal and Image Processing (SS_2026)
+# Signal and Image Processing (WS 2026)
 
 Research Group Neuroinformatics  
 University of Vienna  
 
 **Prof. Moritz Grosse-Wentrup**  
-**Tutor: Kerim Atak**
+**Tutor: Moritz Hauser**
 
 ## Description
 
